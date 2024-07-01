@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoT8ng!
-- 👀 I’m interested in open source projects related to the environment, climate change and web GIS applications!
+- 👀 I’m interested in making web applications, web GIS applications, and processing/analysing GIS data!
 - 🌱 I’m currently learning C#, Python, GDAL, and Mapbox
 
 <!---
