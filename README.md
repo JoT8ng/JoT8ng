@@ -6,7 +6,7 @@ My diverse skill sets and multi-disciplinary background have equipped me with in
 My projects reflect a balance between client objectives and technical feasibility, showcasing a commitment to excellence and continuous self-improvement.
 
 ### Some things I'm up to
-- 🌱 I’m currently learning C#, Docker, GDAL, and Amazon AWS!
+- 🌱 I’m currently learning **C#, Docker, GDAL, and Amazon AWS**!
 - I'm playing around with Leaflet and Mapbox!
 
 ### Languages
@@ -54,6 +54,10 @@ My projects reflect a balance between client objectives and technical feasibilit
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat)
 
 </div>
+
+### Find me on
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jocelyntang/)
+**Personal Website:** [website](https://www.jocelyntang-dev.com/)
 
 <!---
 JoT8ng/JoT8ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
