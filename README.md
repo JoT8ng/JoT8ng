@@ -17,7 +17,7 @@ I am committed to continuous learning and mastering new technologies to develop 
 
 ### Some things I'm up to
 - 🌱 I’m currently learning **Docker, GDAL, and Amazon AWS**!
-- 🌱 I’m currently taking the Google Data Analytics Certification
+- 🌱 I’m currently taking the **Google Data Analytics Certification**!
 - I'm playing around with Leaflet and Mapbox!
 
 ### Languages
