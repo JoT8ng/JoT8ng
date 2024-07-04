@@ -1,9 +1,19 @@
 # 👋 Hi, I’m Jocelyn Tang!
-I am a dedicated **Software Developer** based in Toronto (Canada), blending expertise in architecture/construction, GIS, and software development to craft innovative solutions. I leverage critical thinking and problem-solving skills to develop efficient software solutions to streamline workflows and address climate/sustainability challenges. I am also passionate about making geospatial data accessible to the wider public to conduct humanitarian or climate advocacy work through GIS web applications. 
+I am a software developer with a background in architecture and GIS (Geographic Information Systems). My journey into tech began with automating tasks and creating software to improve efficiency in my architectural work. I discovered a passion for developing software that solves real-world problems and automates tasks.
 
-My diverse skill sets and multi-disciplinary background have equipped me with invaluable teamwork experiences, enabling me to excel in communication while collaborating with diverse teams and clients. Additionally, I possess a talent for swiftly mastering a wide array of technologies and frameworks.
+I have a keen interest in working with data, particularly geospatial data. I enjoy analyzing and processing data to find patterns and create visualizations. My experience includes developing GIS web applications for climate advocacy work with an NGO, where I leveraged geospatial data to drive impactful projects.
 
-My projects reflect a balance between client objectives and technical feasibility, showcasing a commitment to excellence and continuous self-improvement.
+I believe my skills and previous work experiences are transferable to software engineering. Some of the skills I can bring are: 
+- complex problem solving
+- ability to adapt quickly to different working enviornments and learn new software
+- project management
+- graphic design
+- team collaboration
+- synthesizing complex information
+- critical thinking
+- communication and presentation skills.
+
+I am committed to continuous learning and mastering new technologies to develop innovative solutions.
 
 ### Some things I'm up to
 - 🌱 I’m currently learning **C#, Docker, GDAL, and Amazon AWS**!
