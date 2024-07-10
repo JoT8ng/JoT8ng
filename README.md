@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jocelyn Tang!
 I am a software developer with a background in architecture and GIS (Geographic Information Systems). My journey into tech began with automating tasks and creating software to improve efficiency in my architectural work. I discovered a passion for developing software that solves real-world problems and automates tasks.
 
-I have a keen interest in working with data, particularly geospatial data. I enjoy analyzing and processing data to find patterns and create visualizations. My experience includes developing GIS web applications for climate advocacy work with an NGO, where I leveraged geospatial data to drive impactful projects.
+I have a keen interest in creating data visualizations, particularly using geospatial data. My experience includes developing GIS web applications for climate advocacy work with an NGO, where I leveraged geospatial data to drive impactful projects.
 
 I believe my skills and previous work experiences are transferable to software engineering. Some of the skills I can bring are: 
 - complex problem solving
