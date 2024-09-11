@@ -17,7 +17,8 @@ I am committed to continuous learning and mastering new technologies to develop 
 
 ### Some things I'm up to
 - 🌱 I’m currently learning **Java, Docker, and Amazon AWS**!
-- I'm playing around with Leaflet and Mapbox!
+- 🌱 I'm playing around with **Leaflet and Mapbox**!
+- :video_game: Playing games on my PS4, reading, digital painting, hiking, cooking, and climbing :art:
 
 ### Languages
 <div class="badges-intro">
@@ -27,6 +28,8 @@ I am committed to continuous learning and mastering new technologies to develop 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
 ![React](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=MySQL&logoColor=4479A1)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white).
 
 </div>
 
@@ -62,6 +65,7 @@ I am committed to continuous learning and mastering new technologies to develop 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=flate&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white).
 
 </div>
 
