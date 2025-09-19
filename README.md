@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Jocelyn Tang!
-I am a software developer with a background in architecture and GIS (Geographic Information Systems). My journey into tech began with automating tasks and creating software to improve efficiency in my architectural work. I discovered a passion for developing software that solves real-world problems and automates tasks.
+I am a GIS Data Analyst at Ratio.City a division of Esri Canada with a background from architecture. During my studies I learned GIS and remote sensing, applying them to projects analyzing urban patterns and engaging in humanitarian efforts. My interest in working with geospatial data and desire to create GIS web applications ignited an interest in programming. My journey into tech began with automating tasks and creating software to improve efficiency in my architectural work. I discovered a passion for developing software for the AEC industry to tackle real-world problems and the climate crises.
 
 I have a keen interest in creating data visualizations, particularly using geospatial data. My experience includes developing GIS web applications for climate advocacy work with an NGO, where I leveraged geospatial data to drive impactful projects.
 
-I believe my skills and previous work experiences are transferable to software engineering. Some of the skills I can bring are: 
+Some of the skills I can bring are: 
 - complex problem solving
 - ability to adapt quickly to different working enviornments and learn new software
 - project management
@@ -16,15 +16,17 @@ I believe my skills and previous work experiences are transferable to software e
 I am committed to continuous learning and mastering new technologies to develop innovative solutions.
 
 ### Some things I'm up to
-- 🌱 I’m currently learning **Java, Docker, and Amazon AWS**!
+- 🌱 I’m currently learning **ArcPy, and Hugging Face Transformers**!
 - 🌱 I'm playing around with **Leaflet and Mapbox**!
 - :video_game: Playing games on my PS4, reading, digital painting, hiking, cooking, and climbing :art:
 
 ### Languages
 <div class="badges-intro">
 
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white).
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=white).
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
 ![React](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
@@ -49,6 +51,7 @@ I am committed to continuous learning and mastering new technologies to develop 
 ![Jest](https://img.shields.io/badge/Jest-000000?style=flat&logo=Jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-000000?style=flat&logo=Jest&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=white)
+![Springboot](https://img.shields.io/badge/Springboot-000000?style=flat&logo=springboot&logoColor=white).
 
 </div>
 
